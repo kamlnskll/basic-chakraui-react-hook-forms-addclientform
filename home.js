@@ -2,9 +2,7 @@ import React from 'react'
 import Layout from '../components/layout'
 import { FaSun, FaMoon } from 'react-icons/fa'
 import {
-  Box,
   Flex,
-  Heading,
   useColorMode,
   VStack,
   IconButton,
